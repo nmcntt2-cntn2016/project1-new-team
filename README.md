@@ -77,7 +77,7 @@ Lúc học tiếng anh gặp phải tình trạng:
 
 #Ý tưởng 4
 ##Nội dung
-Thiết bị quản lí tốc độ xe máy.
+Thiết bị quản lí tốc độ xe.
 
 ##Tại sao làm
 Giúp làm giảm thiểu đáng kể tai nạn giao thông và nâng cao ý thức tham gia giao thông của người dân. Sau khi hoàn thành có thể thêm một vài tính năng như phát hiện vượt đèn đỏ, v.v...
@@ -86,4 +86,9 @@ Giúp làm giảm thiểu đáng kể tai nạn giao thông và nâng cao ý th�
 Người dân, cảnh sát giao thông, các cơ quan chức năng,...
 
 ##Làm như thế nào
-Mỗi khi xe chạy quá tốc độ cho phép thì con chíp được gắn trên xe sẽ lưu lại và báo trên hệ thống của cơ quan chức năng. Khi đó cơ quan chức năng sẽ có thể thực hiện biện pháp xử phạt. Còn về con chíp thì sẽ lưu lại biển số xe, chủ sở hữu của xe, địa chỉ của chủ sở hữu xe và các thông tin liên quan khác.
+Thiết bị chứa các cảm biến và con chip lưu thông tin chủ xe và xe
+- Thiết lập định vị vùng đông dân và vùng ngoại ô - tự động cập nhật tốc độ định mức ở từng chỗ
+- Set quyền cho cảnh sát thiết lập tốc độ cho phép ở từng địa điểm vì có thể là công trường nên phải đi chậm hơn
+- Khi bị phạt nên gửi cả tốc độ lúc bị phạt, địa điểm tại đó, thời gian và lí do như thế nào
+- Cho người lái xe biết được tốc độ hiện tại và tốc độ định mức
+- Mỗi khi xe chạy quá tốc độ cho phép thì con chíp được gắn trên xe sẽ lưu lại và báo trên hệ thống của cơ quan chức năng. Khi đó cơ quan chức năng sẽ có thể thực hiện biện pháp xử phạt.
