@@ -50,7 +50,7 @@ Tất cả mọi người, đặc biệt là những người lười biếng, d
 	- Các task, deadline có thể do người dùng nhập vào hoặc từ đồng bộ từ Google Calendar
 - Thông báo khi sắp có tiết học, assignment, deadline, …
 - Cho phép nhập điểm học tập vào rồi đưa ra thống kê bằng biểu đồ
-- Tính năng chỉnh sửa tiến độ của task (10%, 20%, … 100%) (kết hợp với [[Ý tưởng 1|#Ý-tưởng-1]] để giải quyết các task)
+- Tính năng chỉnh sửa tiến độ của task (10%, 20%, … 100%) (kết hợp với [Ý tưởng 1](#Ý-tưởng-1) để giải quyết các task)
 - Có thể export ra file dữ liệu để chia sẽ thông tin hoặc là tạo tài khoản rồi share cho tài khoản khác
 
 # Ý tưởng 3
