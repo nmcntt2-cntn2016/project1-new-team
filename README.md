@@ -23,7 +23,7 @@ Tất cả mọi người, đặc biệt là những người lười biếng, d
 - Xây dựng ứng dụng trên thiết vị di động, máy tính, website
 - Chức năng chính của ứng dụng:
 	- Mỗi người có thể tạo tài khoản
-	- Cho phép người dụng tạo todo-list gồm các việc đơn (1 task) và các project (nhiều task)
+	- Cho phép người dùng tạo todo-list gồm các việc đơn (1 task) và các project (nhiều task)
 	- Khi muốn thực hiện một task thì đặt giới hạn thời gian cho task đó và bắt đầu bấm giờ
 	- Trong quá trình thực hiện không được bỏ task, trừ khi đã hoàn thành
 	- Khi hết thời gian, nếu hoàn thành task thì ghi nhận là hoàn thành, ngược lại ghi nhận thời gian trễ hạn và kèm theo một hình phạt nào đó (?) để tạo quyết tâm hơn cho người dùng
@@ -32,7 +32,7 @@ Tất cả mọi người, đặc biệt là những người lười biếng, d
 
 # Ý tưởng 2
 ## Nội dung
-- Ứng dụng quản lý học tập đa năng
+Ứng dụng quản lý học tập đa năng
 
 
 ## Đối tượng người dùng
@@ -52,6 +52,7 @@ Tất cả mọi người, đặc biệt là những người lười biếng, d
 - Cho phép nhập điểm học tập vào rồi đưa ra thống kê bằng biểu đồ
 - Tính năng chỉnh sửa tiến độ của task (10%, 20%, … 100%) (kết hợp với [Ý tưởng 1](#Ý-tưởng-1) để giải quyết các task)
 - Có thể export ra file dữ liệu để chia sẽ thông tin hoặc là tạo tài khoản rồi share cho tài khoản khác
+- Có thể lưu trữ tài liệu và ghi chú môn học ở vị trí tương ứng trên ứng dụng
 
 # Ý tưởng 3
 ##Nội dung
@@ -59,7 +60,7 @@ Tất cả mọi người, đặc biệt là những người lười biếng, d
 - Giúp người dùng học tiếng anh thoải mái bằng cách đưa ra các mẩu tin, các video tiếng anh phù hợp với sở thích và phù hợp với trình độ ngoại ngữ của người dùng.
 
 #Đối tượng người dùng
-- Tất cả mọi người, sinh viên, học sinh, người lớn có nhu cầu tăng cường vốn kiến thức, kĩ năng tiếng anh, nhất là kĩ năng đọc và nghe.
+Tất cả mọi người, sinh viên, học sinh, người lớn có nhu cầu tăng cường vốn kiến thức, kĩ năng tiếng anh, nhất là kĩ năng đọc và nghe.
 
 ##Tại sao làm
 Lúc học tiếng anh gặp phải tình trạng:
