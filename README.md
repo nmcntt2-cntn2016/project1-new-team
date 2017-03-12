@@ -73,3 +73,16 @@ Lúc học tiếng anh gặp phải tình trạng:
 - Trang web sẽ tích hợp từ điển nhanh để người dùng dò nội dung không hiểu.
 - Trong lúc người dùng dò từ vựng, trang web sẽ đồng thời đánh giá trình độ tiếng anh của người dùng, để từ đó trong những lần sau sẽ đưa các thông tin với từ vựng có trình độ phù hợp.
 - Người dùng có thể đánh giá thông tin, để web đề xuất thông tin phù hợp hơn. Người dùng cũng có thể bình luận và chia sẻ thông tin cho bạn bè.
+
+#Ý tưởng 4
+##Nội dung
+Thiết bị quản lí tốc độ xe máy.
+
+##Tại sao làm
+Giúp làm giảm thiểu đáng kể tai nạn giao thông và nâng cao ý thức tham gia giao thông của người dân. Sau khi hoàn thành có thể thêm một vài tính năng như phát hiện vượt đèn đỏ, v.v...
+
+##Đối tượng người dùng
+Người dân, cảnh sát giao thông, các cơ quan chức năng,...
+
+##Làm như thế nào
+Mỗi khi xe chạy quá tốc độ cho phép thì con chíp được gắn trên xe sẽ lưu lại và báo trên hệ thống của cơ quan chức năng. Khi đó cơ quan chức năng sẽ có thể thực hiện biện pháp xử phạt. Còn về con chíp thì sẽ lưu lại biển số xe, chủ sở hữu của xe, địa chỉ của chủ sở hữu xe và các thông tin liên quan khác.
