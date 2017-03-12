@@ -58,7 +58,7 @@ Tất cả mọi người, đặc biệt là những người lười biếng, d
 - Giúp người dùng học tiếng anh thoải mái bằng cách đưa ra các mẩu tin, các video tiếng anh phù hợp với sở thích và phù hợp với trình độ ngoại ngữ của người dùng.
 
 #Đối tượng người dùng
--Tất cả mọi người, sinh viên, học sinh, người lớn có nhu cầu tăng cường vốn kiến thức, kĩ năng tiếng anh, nhất là kĩ năng đọc và nghe.
+- Tất cả mọi người, sinh viên, học sinh, người lớn có nhu cầu tăng cường vốn kiến thức, kĩ năng tiếng anh, nhất là kĩ năng đọc và nghe.
 
 ##Tại sao làm
 Lúc học tiếng anh gặp phải tình trạng:
