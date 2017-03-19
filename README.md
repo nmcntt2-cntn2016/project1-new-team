@@ -8,29 +8,7 @@
 |Trần Quốc Cường|1612843|
 |Trương Văn Hoằng|1612857|
 
-#Ý tưởng 1
-
-## Nội dung
-Tạo ra ứng dụng quản lý và thúc đẩy mọi người thực hiện các công việc bằng cách chia nhỏ các công việc đó ra thành các task nhỏ (thời gian ngắn), từ đó tăng cao năng suất làm việc.
-
-## Tại sao làm
-Trong cuộc sống có nhiều công việc nặng nhọc khiến ta dễ nản chí khi thực hiện (thậm chí khó bắt đầu). Nếu chia các công việc đó thành nhiều công việc nhỏ hơn (giới hạn trong chỉ vài giờ hoặc ít hơn) thì ta sẽ làm được nhiều hơn là thực hiện tất cả cùng lúc.
-
-## Đối tượng người dùng
-Tất cả mọi người, đặc biệt là những người lười biếng, dễ chán nản và cần tăng năng suất hoạt động.
-
-## Làm như thế nào
-- Xây dựng ứng dụng trên thiết vị di động, máy tính, website
-- Chức năng chính của ứng dụng:
-	- Mỗi người có thể tạo tài khoản
-	- Cho phép người dùng tạo todo-list gồm các việc đơn (1 task) và các project (nhiều task)
-	- Khi muốn thực hiện một task thì đặt giới hạn thời gian cho task đó và bắt đầu bấm giờ
-	- Trong quá trình thực hiện không được bỏ task, trừ khi đã hoàn thành
-	- Khi hết thời gian, nếu hoàn thành task thì ghi nhận là hoàn thành, ngược lại ghi nhận thời gian trễ hạn và kèm theo một hình phạt nào đó (?) để tạo quyết tâm hơn cho người dùng
-	- Cuối ngày có thống kê số lượng task hoàn thành, không hoàn thành và task còn lại (hay % hoàn thành của các project).
-- Khảo sát thời lượng làm việc liên tục hiệu quả của mọi người để gợi ý về giới hạn thời gian trong khi đặt task
-
-# Ý tưởng 2
+# Ý tưởng 1
 ## Nội dung
 Ứng dụng quản lý học tập đa năng
 
@@ -54,7 +32,7 @@ Tất cả mọi người, đặc biệt là những người lười biếng, d
 - Có thể export ra file dữ liệu để chia sẽ thông tin hoặc là tạo tài khoản rồi share cho tài khoản khác
 - Có thể lưu trữ tài liệu và ghi chú môn học ở vị trí tương ứng trên ứng dụng
 
-# Ý tưởng 3
+# Ý tưởng 2
 ##Nội dung
 - Trang web và ứng dụng di động đọc tin tức và giải trí bằng tiếng anh, giống như một "Facebook bằng tiếng anh".
 - Giúp người dùng học tiếng anh thoải mái bằng cách đưa ra các mẩu tin, các video tiếng anh phù hợp với sở thích và phù hợp với trình độ ngoại ngữ của người dùng.
@@ -75,7 +53,7 @@ Lúc học tiếng anh gặp phải tình trạng:
 - Trong lúc người dùng dò từ vựng, trang web sẽ đồng thời đánh giá trình độ tiếng anh của người dùng, để từ đó trong những lần sau sẽ đưa các thông tin với từ vựng có trình độ phù hợp.
 - Người dùng có thể đánh giá thông tin, để web đề xuất thông tin phù hợp hơn. Người dùng cũng có thể bình luận và chia sẻ thông tin cho bạn bè.
 
-#Ý tưởng 4
+#Ý tưởng 3
 ##Nội dung
 Thiết bị quản lí tốc độ xe.
 
