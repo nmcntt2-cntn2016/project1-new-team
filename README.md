@@ -1,6 +1,6 @@
 # Project ENEWS
 
-Trang web dự án: englishnews.github.io
+Trang web dự án: https://englishnews.github.io
 
 ## ENEWS là gì?
 - Trang web và ứng dụng di động đọc tin tức và giải trí bằng tiếng anh, giống như một "Facebook bằng tiếng anh".
