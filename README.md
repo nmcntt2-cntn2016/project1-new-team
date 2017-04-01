@@ -1,15 +1,6 @@
-# englishnews.github.io
 # Project ENEWS
 
-# Thành viên
-
-| Họ và tên | MSSV |
-|:---|---:|
-|Lê Hoàng Anh|1612013|
-|Dương Nguyễn Thái Bảo|1612840|
-|Trần Quốc Cường|1612843|
-|Trương Văn Hoằng|1612857|
-
+Trang web dự án: englishnews.github.io
 
 ## ENEWS là gì?
 - Trang web và ứng dụng di động đọc tin tức và giải trí bằng tiếng anh, giống như một "Facebook bằng tiếng anh".
@@ -30,3 +21,12 @@ Lúc học tiếng anh gặp phải tình trạng:
 - Trang web sẽ tích hợp từ điển nhanh để người dùng dò nội dung không hiểu.
 - Trong lúc người dùng dò từ vựng, trang web sẽ đồng thời đánh giá trình độ tiếng anh của người dùng, để từ đó trong những lần sau sẽ đưa các thông tin với từ vựng có trình độ phù hợp.
 - Người dùng có thể đánh giá thông tin, để web đề xuất thông tin phù hợp hơn. Người dùng cũng có thể bình luận và chia sẻ thông tin cho bạn bè.
+
+# Thành viên
+
+| Họ và tên | MSSV |
+|:---|---:|
+|Lê Hoàng Anh|1612013|
+|Dương Nguyễn Thái Bảo|1612840|
+|Trần Quốc Cường|1612843|
+|Trương Văn Hoằng|1612857|
