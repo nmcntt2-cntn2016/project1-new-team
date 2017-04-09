@@ -24,9 +24,9 @@ Tất cả mọi người, sinh viên, học sinh, người lớn có nhu cầu 
 ## Cách sử dụng ENEWS
 - **Lên trang web Enews.vn**
 - **Tạo một tài khoản cá nhân** trên hệ thống. Sau khi tạo tên đăng nhập và mật khẩu, hoặc đăng nhập bằng facebook của mình, người dùng sẽ thực hiện tiếp 2 công đoạn sau:
--- Chọn chủ đề yêu thích của mình: 
+- Chọn chủ đề yêu thích của mình: 
 Sẽ có cửa sổ hiển thị tất cả các chủ đề mà hệ thống có, người dùng có hứng thú hoặc quan tâm những chủ đề nào, thì click chọn vào những chủ đề đó.
--- Làm một bài test nhỏ về từ vựng:
+- Làm một bài test nhỏ về từ vựng:
 Phần này có thể làm hoặc không, mục đích của việc này là giúp hệ thống nhận biết rõ hơn về trình độ từ vựng hiện tại của người dùng.
 - **Vào trang Newsfeed của Enews để đọc tin tức**. 
 Lúc đọc mỗi tin, người dùng có thể like và dislike, đánh giá độ khó của bản tin đối với trình độ của mình. Việc này giúp hệ thống hiểu được những sở thích, trình độ của của người dùng rõ hơn, từ đó đưa ra những tin phù hợp hơn.
